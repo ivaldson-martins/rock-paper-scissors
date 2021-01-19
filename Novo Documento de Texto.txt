@@ -1,0 +1,6 @@
+declare a funcao play
+converter palayerselection para lowercase
+se jogadas forem iguais imprimir empate
+se jogador for pedra e maquina for papel{
+   jogador ganha
+} 
